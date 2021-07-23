@@ -1,0 +1,16 @@
+House Blend, $1.49
+A smooth, mild blend of coffees from Mexico, Bolivia and Guatemala.
+
+Mocha Cafe Latte, $2.35
+Espresso, steamed milk and chocolate syrup.
+
+Cappuccino, $1.89
+A mixture of espresso, steamed milk and foam.
+
+Chai Tea, $1.85
+A spicy drink made with black tea, spices, milk and honey.
+
+Main heading: Starbuzz Coffee Beverages
+
+https://en.wikipedia.org/wiki/Coffee_production_in_Guatemala
+https://commons.wikimedia.org/wiki/File:Las_Merceditas_18.jpg
